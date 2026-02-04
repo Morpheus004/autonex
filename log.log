@@ -1,0 +1,267 @@
+2026-02-04 05:23:05,235 - [10.56] Car 1 arrived
+2026-02-04 05:23:05,235 - [10.56] Car 1 started Cleaning
+2026-02-04 05:23:05,235 - [18.66] Car 2 arrived
+2026-02-04 05:23:05,235 - [26.93] Car 1 finished Cleaning
+2026-02-04 05:23:05,235 - [26.93] Car 1 started Primer
+2026-02-04 05:23:05,235 - [26.93] Car 2 started Cleaning
+2026-02-04 05:23:05,235 - [27.55] Car 3 arrived
+2026-02-04 05:23:05,235 - [39.12] Car 4 arrived
+2026-02-04 05:23:05,235 - [45.32] Car 2 finished Cleaning
+2026-02-04 05:23:05,236 - [45.32] Car 2 started Primer
+2026-02-04 05:23:05,236 - [45.32] Car 3 started Cleaning
+2026-02-04 05:23:05,236 - [47.47] Car 5 arrived
+2026-02-04 05:23:05,236 - [56.34] Car 6 arrived
+2026-02-04 05:23:05,236 - [59.30] Car 1 finished Primer
+2026-02-04 05:23:05,236 - [59.30] Car 1 started Painting
+2026-02-04 05:23:05,236 - [60.47] Car 3 finished Cleaning
+2026-02-04 05:23:05,236 - [60.47] Car 3 started Primer
+2026-02-04 05:23:05,236 - [60.47] Car 4 started Cleaning
+2026-02-04 05:23:05,237 - [66.36] Car 7 arrived
+2026-02-04 05:23:05,237 - [74.54] Car 2 finished Primer
+2026-02-04 05:23:05,237 - [76.54] Car 8 arrived
+2026-02-04 05:23:05,237 - ALERT: Queue at Cleaning has 4 cars at time 76.54
+2026-02-04 05:23:05,237 - [78.71] Car 4 finished Cleaning
+2026-02-04 05:23:05,237 - [78.71] Car 4 started Primer
+2026-02-04 05:23:05,237 - [78.71] Car 5 started Cleaning
+2026-02-04 05:23:05,237 - [85.42] Car 9 arrived
+2026-02-04 05:23:05,237 - ALERT: Queue at Cleaning has 4 cars at time 85.42
+2026-02-04 05:23:05,237 - [87.45] Car 3 finished Primer
+2026-02-04 05:23:05,237 - [89.56] Car 1 finished Painting
+2026-02-04 05:23:05,237 - [89.56] Car 1 exited system
+2026-02-04 05:23:05,238 - [89.56] Car 2 started Painting
+2026-02-04 05:23:05,238 - [93.45] Car 10 arrived
+2026-02-04 05:23:05,238 - ALERT: Queue at Cleaning has 5 cars at time 93.45
+2026-02-04 05:23:05,238 - [97.76] Car 5 finished Cleaning
+2026-02-04 05:23:05,238 - [97.76] Car 5 started Primer
+2026-02-04 05:23:05,238 - [97.76] Car 6 started Cleaning
+2026-02-04 05:23:05,238 - [104.24] Car 11 arrived
+2026-02-04 05:23:05,238 - ALERT: Queue at Cleaning has 5 cars at time 104.24
+2026-02-04 05:23:05,238 - [109.61] Car 4 finished Primer
+2026-02-04 05:23:05,238 - [113.54] Car 6 finished Cleaning
+2026-02-04 05:23:05,239 - [113.54] Car 6 started Primer
+2026-02-04 05:23:05,239 - [113.54] Car 7 started Cleaning
+2026-02-04 05:23:05,239 - [116.07] Car 12 arrived
+2026-02-04 05:23:05,239 - ALERT: Queue at Cleaning has 5 cars at time 116.07
+2026-02-04 05:23:05,239 - [124.46] Car 13 arrived
+2026-02-04 05:23:05,239 - ALERT: Queue at Cleaning has 6 cars at time 124.46
+2026-02-04 05:23:05,239 - [126.16] Car 5 finished Primer
+2026-02-04 05:23:05,239 - [127.62] Car 2 finished Painting
+2026-02-04 05:23:05,239 - [127.62] Car 2 exited system
+2026-02-04 05:23:05,239 - [127.62] Car 3 started Painting
+2026-02-04 05:23:05,240 - [129.00] Car 7 finished Cleaning
+2026-02-04 05:23:05,240 - [129.00] Car 7 started Primer
+2026-02-04 05:23:05,240 - [129.00] Car 8 started Cleaning
+2026-02-04 05:23:05,240 - [135.85] Car 14 arrived
+2026-02-04 05:23:05,240 - ALERT: Queue at Cleaning has 6 cars at time 135.85
+2026-02-04 05:23:05,240 - [141.91] Car 6 finished Primer
+2026-02-04 05:23:05,240 - [145.99] Car 15 arrived
+2026-02-04 05:23:05,240 - ALERT: Queue at Cleaning has 7 cars at time 145.99
+2026-02-04 05:23:05,240 - [147.65] Car 8 finished Cleaning
+2026-02-04 05:23:05,240 - [147.65] Car 8 started Primer
+2026-02-04 05:23:05,241 - [147.65] Car 9 started Cleaning
+2026-02-04 05:23:05,241 - [157.89] Car 16 arrived
+2026-02-04 05:23:05,241 - ALERT: Queue at Cleaning has 7 cars at time 157.89
+2026-02-04 05:23:05,241 - [162.07] Car 7 finished Primer
+2026-02-04 05:23:05,241 - ALERT: Queue at Painting has 4 cars at time 162.07
+2026-02-04 05:23:05,241 - [163.66] Car 3 finished Painting
+2026-02-04 05:23:05,241 - [163.66] Car 3 exited system
+2026-02-04 05:23:05,241 - [163.66] Car 4 started Painting
+2026-02-04 05:23:05,241 - [165.41] Car 9 finished Cleaning
+2026-02-04 05:23:05,241 - [165.41] Car 9 started Primer
+2026-02-04 05:23:05,242 - [165.41] Car 10 started Cleaning
+2026-02-04 05:23:05,242 - [169.20] Car 17 arrived
+2026-02-04 05:23:05,242 - ALERT: Queue at Cleaning has 7 cars at time 169.20
+2026-02-04 05:23:05,242 - [176.44] Car 8 finished Primer
+2026-02-04 05:23:05,242 - ALERT: Queue at Painting has 4 cars at time 176.44
+2026-02-04 05:23:05,242 - [180.02] Car 18 arrived
+2026-02-04 05:23:05,242 - ALERT: Queue at Cleaning has 8 cars at time 180.02
+2026-02-04 05:23:05,242 - [183.30] Car 10 finished Cleaning
+2026-02-04 05:23:05,242 - [183.30] Car 10 started Primer
+2026-02-04 05:23:05,242 - [183.30] Car 11 started Cleaning
+2026-02-04 05:23:05,243 - [188.21] Car 19 arrived
+2026-02-04 05:23:05,243 - ALERT: Queue at Cleaning has 8 cars at time 188.21
+2026-02-04 05:23:05,243 - [196.52] Car 20 arrived
+2026-02-04 05:23:05,243 - ALERT: Queue at Cleaning has 9 cars at time 196.52
+2026-02-04 05:23:05,243 - [199.03] Car 9 finished Primer
+2026-02-04 05:23:05,243 - ALERT: Queue at Painting has 5 cars at time 199.03
+2026-02-04 05:23:05,243 - [199.75] Car 11 finished Cleaning
+2026-02-04 05:23:05,243 - [199.75] Car 11 started Primer
+2026-02-04 05:23:05,243 - [199.75] Car 12 started Cleaning
+2026-02-04 05:23:05,244 - [199.84] Car 4 finished Painting
+2026-02-04 05:23:05,244 - [199.84] Car 4 exited system
+2026-02-04 05:23:05,244 - [199.84] Car 5 started Painting
+2026-02-04 05:23:05,244 - [205.46] Car 21 arrived
+2026-02-04 05:23:05,244 - ALERT: Queue at Cleaning has 9 cars at time 205.46
+2026-02-04 05:23:05,244 - [210.58] Car 10 finished Primer
+2026-02-04 05:23:05,244 - ALERT: Queue at Painting has 5 cars at time 210.58
+2026-02-04 05:23:05,244 - [214.92] Car 22 arrived
+2026-02-04 05:23:05,244 - ALERT: Queue at Cleaning has 10 cars at time 214.92
+2026-02-04 05:23:05,245 - [216.14] Car 12 finished Cleaning
+2026-02-04 05:23:05,245 - [216.14] Car 12 started Primer
+2026-02-04 05:23:05,245 - [216.14] Car 13 started Cleaning
+2026-02-04 05:23:05,245 - [224.40] Car 23 arrived
+2026-02-04 05:23:05,245 - ALERT: Queue at Cleaning has 10 cars at time 224.40
+2026-02-04 05:23:05,245 - [225.76] Car 11 finished Primer
+2026-02-04 05:23:05,245 - ALERT: Queue at Painting has 6 cars at time 225.76
+2026-02-04 05:23:05,245 - [232.47] Car 13 finished Cleaning
+2026-02-04 05:23:05,245 - [232.47] Car 13 started Primer
+2026-02-04 05:23:05,245 - [232.47] Car 14 started Cleaning
+2026-02-04 05:23:05,246 - [236.14] Car 24 arrived
+2026-02-04 05:23:05,246 - ALERT: Queue at Cleaning has 10 cars at time 236.14
+2026-02-04 05:23:05,246 - [236.20] Car 5 finished Painting
+2026-02-04 05:23:05,246 - [236.20] Car 5 exited system
+2026-02-04 05:23:05,246 - [236.20] Car 6 started Painting
+2026-02-04 05:23:05,246 - [243.23] Car 12 finished Primer
+2026-02-04 05:23:05,246 - ALERT: Queue at Painting has 6 cars at time 243.23
+2026-02-04 05:23:05,246 - [244.83] Car 25 arrived
+2026-02-04 05:23:05,246 - ALERT: Queue at Cleaning has 11 cars at time 244.83
+2026-02-04 05:23:05,247 - [250.52] Car 14 finished Cleaning
+2026-02-04 05:23:05,247 - [250.52] Car 14 started Primer
+2026-02-04 05:23:05,247 - [250.52] Car 15 started Cleaning
+2026-02-04 05:23:05,247 - [253.48] Car 26 arrived
+2026-02-04 05:23:05,247 - ALERT: Queue at Cleaning has 11 cars at time 253.48
+2026-02-04 05:23:05,247 - [263.95] Car 13 finished Primer
+2026-02-04 05:23:05,247 - ALERT: Queue at Painting has 7 cars at time 263.95
+2026-02-04 05:23:05,247 - [264.04] Car 27 arrived
+2026-02-04 05:23:05,247 - ALERT: Queue at Cleaning has 12 cars at time 264.04
+2026-02-04 05:23:05,248 - [270.46] Car 15 finished Cleaning
+2026-02-04 05:23:05,248 - [270.46] Car 15 started Primer
+2026-02-04 05:23:05,248 - [270.46] Car 16 started Cleaning
+2026-02-04 05:23:05,248 - [273.49] Car 6 finished Painting
+2026-02-04 05:23:05,248 - [273.49] Car 6 exited system
+2026-02-04 05:23:05,248 - [273.49] Car 7 started Painting
+2026-02-04 05:23:05,248 - [274.27] Car 28 arrived
+2026-02-04 05:23:05,248 - ALERT: Queue at Cleaning has 12 cars at time 274.27
+2026-02-04 05:23:05,248 - [279.31] Car 14 finished Primer
+2026-02-04 05:23:05,249 - ALERT: Queue at Painting has 7 cars at time 279.31
+2026-02-04 05:23:05,249 - [283.18] Car 29 arrived
+2026-02-04 05:23:05,249 - ALERT: Queue at Cleaning has 13 cars at time 283.18
+2026-02-04 05:23:05,249 - [289.68] Car 16 finished Cleaning
+2026-02-04 05:23:05,249 - [289.68] Car 16 started Primer
+2026-02-04 05:23:05,249 - [289.68] Car 17 started Cleaning
+2026-02-04 05:23:05,249 - [291.31] Car 30 arrived
+2026-02-04 05:23:05,249 - ALERT: Queue at Cleaning has 13 cars at time 291.31
+2026-02-04 05:23:05,249 - [300.16] Car 31 arrived
+2026-02-04 05:23:05,249 - ALERT: Queue at Cleaning has 14 cars at time 300.16
+2026-02-04 05:23:05,250 - [302.31] Car 15 finished Primer
+2026-02-04 05:23:05,250 - ALERT: Queue at Painting has 8 cars at time 302.31
+2026-02-04 05:23:05,250 - [306.02] Car 17 finished Cleaning
+2026-02-04 05:23:05,250 - [306.02] Car 17 started Primer
+2026-02-04 05:23:05,250 - [306.02] Car 18 started Cleaning
+2026-02-04 05:23:05,250 - [311.25] Car 7 finished Painting
+2026-02-04 05:23:05,250 - [311.25] Car 7 exited system
+2026-02-04 05:23:05,250 - [311.25] Car 8 started Painting
+2026-02-04 05:23:05,250 - [311.93] Car 32 arrived
+2026-02-04 05:23:05,250 - ALERT: Queue at Cleaning has 14 cars at time 311.93
+2026-02-04 05:23:05,251 - [317.83] Car 16 finished Primer
+2026-02-04 05:23:05,251 - ALERT: Queue at Painting has 8 cars at time 317.83
+2026-02-04 05:23:05,251 - [321.51] Car 33 arrived
+2026-02-04 05:23:05,251 - ALERT: Queue at Cleaning has 15 cars at time 321.51
+2026-02-04 05:23:05,251 - [322.59] Car 18 finished Cleaning
+2026-02-04 05:23:05,251 - [322.59] Car 18 started Primer
+2026-02-04 05:23:05,251 - [322.59] Car 19 started Cleaning
+2026-02-04 05:23:05,251 - [333.17] Car 34 arrived
+2026-02-04 05:23:05,251 - ALERT: Queue at Cleaning has 15 cars at time 333.17
+2026-02-04 05:23:05,251 - [338.91] Car 19 finished Cleaning
+2026-02-04 05:23:05,251 - [338.91] Car 20 started Cleaning
+2026-02-04 05:23:05,251 - [339.78] Car 17 finished Primer
+2026-02-04 05:23:05,252 - ALERT: Queue at Painting has 9 cars at time 339.78
+2026-02-04 05:23:05,252 - [339.78] Car 19 started Primer
+2026-02-04 05:23:05,252 - [342.16] Car 35 arrived
+2026-02-04 05:23:05,252 - ALERT: Queue at Cleaning has 15 cars at time 342.16
+2026-02-04 05:23:05,252 - [347.81] Car 8 finished Painting
+2026-02-04 05:23:05,252 - [347.81] Car 8 exited system
+2026-02-04 05:23:05,252 - [347.81] Car 9 started Painting
+2026-02-04 05:23:05,252 - [352.18] Car 18 finished Primer
+2026-02-04 05:23:05,252 - ALERT: Queue at Painting has 9 cars at time 352.18
+2026-02-04 05:23:05,252 - [352.49] Car 36 arrived
+2026-02-04 05:23:05,252 - ALERT: Queue at Cleaning has 16 cars at time 352.49
+2026-02-04 05:23:05,252 - [356.72] Car 20 finished Cleaning
+2026-02-04 05:23:05,252 - [356.72] Car 20 started Primer
+2026-02-04 05:23:05,252 - [356.72] Car 21 started Cleaning
+2026-02-04 05:23:05,252 - [362.09] Car 37 arrived
+2026-02-04 05:23:05,252 - ALERT: Queue at Cleaning has 16 cars at time 362.09
+2026-02-04 05:23:05,252 - [367.41] Car 19 finished Primer
+2026-02-04 05:23:05,252 - ALERT: Queue at Painting has 10 cars at time 367.41
+2026-02-04 05:23:05,253 - [372.13] Car 38 arrived
+2026-02-04 05:23:05,253 - ALERT: Queue at Cleaning has 17 cars at time 372.13
+2026-02-04 05:23:05,253 - [376.71] Car 21 finished Cleaning
+2026-02-04 05:23:05,253 - [376.71] Car 21 started Primer
+2026-02-04 05:23:05,253 - [376.71] Car 22 started Cleaning
+2026-02-04 05:23:05,253 - [380.49] Car 39 arrived
+2026-02-04 05:23:05,253 - ALERT: Queue at Cleaning has 17 cars at time 380.49
+2026-02-04 05:23:05,253 - [383.91] Car 20 finished Primer
+2026-02-04 05:23:05,253 - ALERT: Queue at Painting has 11 cars at time 383.91
+2026-02-04 05:23:05,253 - [386.78] Car 9 finished Painting
+2026-02-04 05:23:05,254 - [386.78] Car 9 exited system
+2026-02-04 05:23:05,254 - [386.78] Car 10 started Painting
+2026-02-04 05:23:05,254 - [391.00] Car 40 arrived
+2026-02-04 05:23:05,254 - ALERT: Queue at Cleaning has 18 cars at time 391.00
+2026-02-04 05:23:05,254 - [392.26] Car 22 finished Cleaning
+2026-02-04 05:23:05,254 - [392.26] Car 22 started Primer
+2026-02-04 05:23:05,254 - [392.26] Car 23 started Cleaning
+2026-02-04 05:23:05,254 - [400.69] Car 41 arrived
+2026-02-04 05:23:05,254 - ALERT: Queue at Cleaning has 18 cars at time 400.69
+2026-02-04 05:23:05,254 - [402.18] Car 21 finished Primer
+2026-02-04 05:23:05,255 - ALERT: Queue at Painting has 11 cars at time 402.18
+2026-02-04 05:23:05,255 - [409.17] Car 23 finished Cleaning
+2026-02-04 05:23:05,255 - [409.17] Car 23 started Primer
+2026-02-04 05:23:05,255 - [409.17] Car 24 started Cleaning
+2026-02-04 05:23:05,255 - [412.68] Car 42 arrived
+2026-02-04 05:23:05,255 - ALERT: Queue at Cleaning has 18 cars at time 412.68
+2026-02-04 05:23:05,255 - [417.89] Car 22 finished Primer
+2026-02-04 05:23:05,255 - ALERT: Queue at Painting has 12 cars at time 417.89
+2026-02-04 05:23:05,255 - [424.12] Car 43 arrived
+2026-02-04 05:23:05,255 - ALERT: Queue at Cleaning has 19 cars at time 424.12
+2026-02-04 05:23:05,255 - [424.71] Car 10 finished Painting
+2026-02-04 05:23:05,256 - [424.71] Car 10 exited system
+2026-02-04 05:23:05,256 - [424.71] Car 11 started Painting
+2026-02-04 05:23:05,256 - [429.02] Car 24 finished Cleaning
+2026-02-04 05:23:05,256 - [429.02] Car 24 started Primer
+2026-02-04 05:23:05,256 - [429.02] Car 25 started Cleaning
+2026-02-04 05:23:05,256 - [432.17] Car 44 arrived
+2026-02-04 05:23:05,256 - ALERT: Queue at Cleaning has 19 cars at time 432.17
+2026-02-04 05:23:05,256 - [439.46] Car 23 finished Primer
+2026-02-04 05:23:05,256 - ALERT: Queue at Painting has 12 cars at time 439.46
+2026-02-04 05:23:05,256 - [441.23] Car 45 arrived
+2026-02-04 05:23:05,257 - ALERT: Queue at Cleaning has 20 cars at time 441.23
+2026-02-04 05:23:05,257 - [446.71] Car 25 finished Cleaning
+2026-02-04 05:23:05,257 - [446.71] Car 25 started Primer
+2026-02-04 05:23:05,257 - [446.71] Car 26 started Cleaning
+2026-02-04 05:23:05,257 - [451.80] Car 46 arrived
+2026-02-04 05:23:05,257 - ALERT: Queue at Cleaning has 20 cars at time 451.80
+2026-02-04 05:23:05,257 - [460.84] Car 24 finished Primer
+2026-02-04 05:23:05,257 - ALERT: Queue at Painting has 13 cars at time 460.84
+2026-02-04 05:23:05,257 - [461.61] Car 47 arrived
+2026-02-04 05:23:05,257 - ALERT: Queue at Cleaning has 21 cars at time 461.61
+2026-02-04 05:23:05,258 - [461.91] Car 11 finished Painting
+2026-02-04 05:23:05,258 - [461.91] Car 11 exited system
+2026-02-04 05:23:05,258 - [461.91] Car 12 started Painting
+2026-02-04 05:23:05,258 - [463.88] Car 26 finished Cleaning
+2026-02-04 05:23:05,258 - [463.88] Car 26 started Primer
+2026-02-04 05:23:05,258 - [463.88] Car 27 started Cleaning
+2026-02-04 05:23:05,258 - [472.82] Car 25 finished Primer
+2026-02-04 05:23:05,258 - ALERT: Queue at Painting has 13 cars at time 472.82
+2026-02-04 05:23:05,258 - [473.43] Car 48 arrived
+2026-02-04 05:23:05,258 - ALERT: Queue at Cleaning has 21 cars at time 473.43
+2026-02-04 05:23:05,259 - 
+
+2026-02-04 05:23:05,259 - Total cars completed: 11
+2026-02-04 05:23:05,259 - Average system time: 217.92 minutes
+
+2026-02-04 05:23:05,259 - Cleaning Station:
+2026-02-04 05:23:05,259 -  Utilization: 94.44%
+2026-02-04 05:23:05,259 -  Max queue: 21
+2026-02-04 05:23:05,259 -  Avg wait: 99.13 minutes
+
+2026-02-04 05:23:05,259 - Primer Station:
+2026-02-04 05:23:05,259 -  Utilization: 76.03%
+2026-02-04 05:23:05,259 -  Max queue: 1
+2026-02-04 05:23:05,259 -  Avg wait: 0.03 minutes
+
+2026-02-04 05:23:05,260 - Painting Station:
+2026-02-04 05:23:05,260 -  Utilization: 83.88%
+2026-02-04 05:23:05,260 -  Max queue: 13
+2026-02-04 05:23:05,260 -  Avg wait: 105.51 minutes
+
+2026-02-04 05:23:05,260 - Alerts triggered: 60
